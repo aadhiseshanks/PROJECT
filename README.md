@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # An Explainable Machine Learning Framework for Diabetes Risk Prediction and Personalized Health Monitoring
 
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
@@ -235,3 +236,7 @@ This software application is engineered strictly for **academic research, engine
 - The risk probabilities and feature explanations generated are mathematical approximations derived from observational data.
 - They **do not** constitute a medical diagnosis, clinical prognosis, or treatment prescription.
 - Neither this application nor its underlying models replace formal diagnostic laboratory evaluations (Fasting Plasma Glucose, HbA1c, Oral Glucose Tolerance Test) or the judgment of a licensed healthcare practitioner.
+=======
+# PROJECT
+AN EXPLAINABLE MACHINE LEARNING FRAMEWORK FOR DIABETES RISK PREDICTION AND PERSONALIZED HEALTH MONITORING
+>>>>>>> 0fc2cc624fb0d14cfe3ea44b927e6c4ddc7473ba
