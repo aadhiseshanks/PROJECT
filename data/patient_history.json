@@ -1,0 +1,86 @@
+[
+  {
+    "record_id": "REC_20260601_100000",
+    "timestamp": "2026-06-01 10:00:00",
+    "patient_id": "PATIENT-101",
+    "patient_name": "Demo Patient A",
+    "parameters": {
+      "Pregnancies": 2,
+      "Glucose": 158.0,
+      "BloodPressure": 86.0,
+      "SkinThickness": 32.0,
+      "Insulin": 180.0,
+      "BMI": 34.2,
+      "DiabetesPedigreeFunction": 0.58,
+      "Age": 42
+    },
+    "prediction_class": 1,
+    "prediction_label": "Diabetic (Outcome = 1)",
+    "probability_diabetic": 0.784,
+    "risk_tier": "Elevated Statistical Probability",
+    "notes": "Initial clinic intake. Elevated fasting glucose."
+  },
+  {
+    "record_id": "REC_20260801_103000",
+    "timestamp": "2026-08-01 10:30:00",
+    "patient_id": "PATIENT-101",
+    "patient_name": "Demo Patient A",
+    "parameters": {
+      "Pregnancies": 2,
+      "Glucose": 134.0,
+      "BloodPressure": 80.0,
+      "SkinThickness": 30.0,
+      "Insulin": 140.0,
+      "BMI": 32.1,
+      "DiabetesPedigreeFunction": 0.58,
+      "Age": 42
+    },
+    "prediction_class": 1,
+    "prediction_label": "Diabetic (Outcome = 1)",
+    "probability_diabetic": 0.592,
+    "risk_tier": "Moderate / Borderline Probability",
+    "notes": "2-Month follow-up after starting dietary modification."
+  },
+  {
+    "record_id": "REC_20261001_091500",
+    "timestamp": "2026-10-01 09:15:00",
+    "patient_id": "PATIENT-101",
+    "patient_name": "Demo Patient A",
+    "parameters": {
+      "Pregnancies": 2,
+      "Glucose": 112.0,
+      "BloodPressure": 76.0,
+      "SkinThickness": 27.0,
+      "Insulin": 110.0,
+      "BMI": 29.8,
+      "DiabetesPedigreeFunction": 0.58,
+      "Age": 42
+    },
+    "prediction_class": 0,
+    "prediction_label": "Non-Diabetic (Outcome = 0)",
+    "probability_diabetic": 0.328,
+    "risk_tier": "Low Statistical Probability",
+    "notes": "4-Month progress: significant improvement in glucose and BMI."
+  },
+  {
+    "record_id": "REC_20261015_121556",
+    "timestamp": "2026-10-15 12:15:56",
+    "patient_id": "PATIENT-2026",
+    "patient_name": "John Doe",
+    "parameters": {
+      "Pregnancies": 5.0,
+      "Glucose": 172.0,
+      "BloodPressure": 102.0,
+      "SkinThickness": 51.0,
+      "Insulin": 324.0,
+      "BMI": 32.0,
+      "DiabetesPedigreeFunction": 1.1,
+      "Age": 58.0
+    },
+    "prediction_class": 1,
+    "prediction_label": "Diabetic (Outcome = 1)",
+    "probability_diabetic": 0.8374,
+    "risk_tier": "Elevated Statistical Probability",
+    "notes": "Automated risk evaluation. Probability: 83.7%"
+  }
+]
