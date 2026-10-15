@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # An Explainable Machine Learning Framework for Diabetes Risk Prediction and Personalized Health Monitoring
 
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
@@ -239,4 +238,3 @@ This software application is engineered strictly for **academic research, engine
 =======
 # PROJECT
 AN EXPLAINABLE MACHINE LEARNING FRAMEWORK FOR DIABETES RISK PREDICTION AND PERSONALIZED HEALTH MONITORING
->>>>>>> 0fc2cc624fb0d14cfe3ea44b927e6c4ddc7473ba
